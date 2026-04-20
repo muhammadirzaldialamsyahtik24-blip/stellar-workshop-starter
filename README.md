@@ -7,6 +7,7 @@
 Stellar Notes DApp is a decentralized smart contract solution built on the Stellar blockchain using Soroban SDK. It provides a secure, immutable platform for managing personal notes directly on the blockchain. The contract ensures that your data is stored transparently and is only manageable through predefined smart contract functions, eliminating reliance on centralized database providers.
 
 The system allows users to create, view, and delete notes, leveraging the efficiency and security of the Stellar network. Each note is uniquely identified and stored within the contract's instance storage, ensuring data persistence and reliability.
+<img width="1896" height="904" alt="image" src="https://github.com/user-attachments/assets/bdc75509-1aff-43da-8319-9027df5e6333" />
 
 ## Project Vision
 
